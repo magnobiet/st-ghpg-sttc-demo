@@ -1,0 +1,4 @@
+[project]
+name = "st-ghpg-sttc-demo"
+description = "a sample static page"
+version = "1.0.0"
